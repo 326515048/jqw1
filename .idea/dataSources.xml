@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" hash="2271724767">
     <data-source source="LOCAL" name="jqw" uuid="e17a7b9a-ffcf-4738-9ccc-dc7e17f88d61">
-      <driver-ref>sqlite.xerial</driver-ref>
+      <driver-ref>41cf874b-6861-441b-95f6-bb8ccce06677</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>
       <remarks>SQLite</remarks>
