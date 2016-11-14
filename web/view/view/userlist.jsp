@@ -51,7 +51,7 @@
                   columns: [
                     { text: 'uuid', datafield: 'uuid', width: 250 },
                     { text: 'uid', datafield: 'userID', width: 250 },
-                    { text: 'name', datafield: 'userName', width: 250 }
+                    { text: 'name', datafield: 'userName' }
                   ]
                 });
       });
