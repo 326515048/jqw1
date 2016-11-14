@@ -11,6 +11,10 @@
 
     <context:component-scan base-package="com.sj.controller"/>
 
+    <!-- 静态资源访问 -->
+    <mvc:resources location="/jqwidgets/" mapping="/jqwidgets/**"/>
+    <mvc:resources location="/scripts/" mapping="/scripts/**"/>
+
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/pages/"/>
         <property name="suffix" value=".jsp"/>
